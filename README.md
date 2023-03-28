@@ -1,6 +1,4 @@
 # APMA-3100
-Projects for APMA 3100 Spring 2022
-
 Mini-projects 1 and 2 for APMA 3100 - Probability, taught by Roman Krzysztofowicz in the Spring semester of 2022.
 
 These projects had students design a pseudo-random number generator, as well as a Monte-Carlo simulation to demonstrate the law of large numbers and central limit theorem, alongside other statistical technicues, such as plotting cumulative distribution functions. These techniques were applied to a hypothetical scenario in which we simulated delivery drones dropping a payload and analyzed the precision of drops.
